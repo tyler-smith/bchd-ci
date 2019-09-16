@@ -1,0 +1,3 @@
+pipeline:
+  sync_check:
+    image: "tylersmith/sync-check:v1.0.0"
